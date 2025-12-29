@@ -1,0 +1,5 @@
+{
+  "name": "Mobile-First Chat App",
+  "description": "A responsive, professional chat interface built with React, styled with Tailwind CSS, featuring light/dark modes and mock data integration, designed for future API or n8n connectivity.",
+  "requestFramePermissions": []
+}
